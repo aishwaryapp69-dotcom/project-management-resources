@@ -1,0 +1,16 @@
+# Risk Register Template
+
+| Risk ID | Risk Description | Category | Probability | Impact | Mitigation Strategy | Owner | Status |
+|---------|-----------------|----------|-------------|--------|-------------------|-------|--------|
+| R001 | Example risk | Technical | Medium | High | Mitigation plan | John Doe | Active |
+
+## Risk Categories
+- Technical
+- Resource
+- External
+- Schedule
+- Budget
+
+## Risk Assessment Matrix
+- **Probability**: Low, Medium, High
+- **Impact**: Low, Medium, High, Critical
